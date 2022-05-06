@@ -1,17 +1,17 @@
 createCanvas(200, 200)
  if (keyDown(RIGHT_ARROW)){
-canvasColor = "blue"   
+background("blue")
  }
 
  if (keyDown(LEFT_ARROW)){
-   canvasColor = "purple"
+   background("purple")
  }
 
  if (keyDown(UP_ARROW)) {
-   canvasColor = "orange"
+   background("orange")
  }
 
  if (keyDown(UP_ARROW)) {
-   canvasColor = "pink"
+background ("pink")
  }
 
